@@ -1,0 +1,265 @@
+###############################################################################
+#
+# IAR ELF Linker V8.50.1.245/W32 for ARM                  13/May/2020  22:42:16
+# Copyright 2007-2020 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Exe\prj0.out
+#    Map file     =
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\List\prj0.map
+#    Command line =
+#        -f C:\Users\amral\AppData\Local\Temp\EW9F42.tmp
+#        (C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj\cpu-port.o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj\main.o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj\multitarefas.o
+#        --no_out_extension -o
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Exe\prj0.out
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map
+#        C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\List\prj0.map
+#        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.4\arm\CONFIG\generic_cortex.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because some modules are built with
+size limitations (and not runtime checking), and --advanced_heap
+was not specified.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x0 { ro section .intvec };
+"P1":  place in [from 0x0 to 0x7'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block PROC_STACK with size = 0, alignment = 8 { };
+define block HEAP with size = 2K, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'ffff] {
+          rw, block CSTACK, block PROC_STACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind         Address   Size  Object
+  -------            ----         -------   ----  ------
+"A0":                                       0x40
+  .intvec            ro code          0x0   0x40  vector_table_M.o [3]
+                                   - 0x40   0x40
+
+"P1":                                      0x648
+  .text              ro code         0x40  0x220  multitarefas.o [1]
+  .text              ro code        0x260  0x128  cpu-port.o [1]
+  .text              ro code        0x388   0xe0  I32DivModFast.o [3]
+  .text              ro code        0x468    0x2  IntDivZer.o [3]
+  .text              ro code        0x46a    0x2  vector_table_M.o [3]
+  .text              ro code        0x46c   0xde  main.o [1]
+  .text              ro code        0x54a   0x3c  zero_init3.o [3]
+  .text              ro code        0x586   0x30  copy_init3.o [3]
+  .text              ro code        0x5b8   0x28  data_init.o [3]
+  .iar.init_table    const          0x5e0   0x24  - Linker created -
+  .text              ro code        0x604   0x1e  cmain.o [3]
+  .text              ro code        0x622    0x4  low_level_init.o [2]
+  .text              ro code        0x626    0x8  exit.o [2]
+  .text              ro code        0x630    0xa  cexit.o [3]
+  .text              ro code        0x63c   0x14  exit.o [4]
+  .rodata            const          0x650   0x10  main.o [1]
+  .rodata            const          0x660    0xc  main.o [1]
+  .rodata            const          0x66c    0xc  main.o [1]
+  .text              ro code        0x678    0xc  cstartup_M.o [3]
+  Initializer bytes  const          0x684    0x4  <for P2-1>
+  .rodata            const          0x688    0x0  zero_init3.o [3]
+  .rodata            const          0x688    0x0  copy_init3.o [3]
+                                  - 0x688  0x648
+
+"P2", part 1 of 3:                           0x4
+  P2-1                        0x2000'0000    0x2  <Init block>
+    .data            inited   0x2000'0000    0x2  main.o [1]
+                            - 0x2000'0002    0x2
+
+"P2", part 2 of 3:                         0x24c
+  .bss               zero     0x2000'0004   0xa0  main.o [1]
+  .bss               zero     0x2000'00a4   0xa0  main.o [1]
+  .bss               zero     0x2000'0144   0xa0  main.o [1]
+  .bss               zero     0x2000'01e4   0x3c  multitarefas.o [1]
+  .bss               zero     0x2000'0220   0x14  main.o [1]
+  .bss               zero     0x2000'0234    0x8  multitarefas.o [1]
+  .bss               zero     0x2000'023c    0x4  main.o [1]
+  .bss               zero     0x2000'0240    0x4  multitarefas.o [1]
+  .bss               zero     0x2000'0244    0x4  multitarefas.o [1]
+  .bss               zero     0x2000'0248    0x2  main.o [1]
+  .bss               zero     0x2000'024a    0x2  multitarefas.o [1]
+  .bss               zero     0x2000'024c    0x1  multitarefas.o [1]
+  .bss               zero     0x2000'024d    0x1  multitarefas.o [1]
+  .bss               zero     0x2000'024e    0x1  multitarefas.o [1]
+                            - 0x2000'024f  0x24b
+
+"P2", part 3 of 3:                         0x400
+  CSTACK                      0x2000'0250  0x400  <Block>
+    CSTACK           uninit   0x2000'0250  0x400  <Block tail>
+                            - 0x2000'0650  0x400
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+        0x688     0x7'ffff  0x7'f978
+  0x2000'0650  0x2000'ffff    0xf9b0
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x24b:
+          0x2000'0004  0x24b
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x4 (200% of destination):
+                0x684    0x4
+    1 destination range, total size 0x2:
+          0x2000'0000    0x2
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module            ro code  ro data  rw data
+    ------            -------  -------  -------
+command line/config:
+    -------------------------------------------
+    Total:
+
+C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj: [1]
+    cpu-port.o            296
+    main.o                222       42      508
+    multitarefas.o        544                81
+    -------------------------------------------
+    Total:              1'062       42      589
+
+dl6M_tln.a: [2]
+    exit.o                  8
+    low_level_init.o        4
+    -------------------------------------------
+    Total:                 12
+
+rt6M_tl.a: [3]
+    I32DivModFast.o       224
+    IntDivZer.o             2
+    cexit.o                10
+    cmain.o                30
+    copy_init3.o           48
+    cstartup_M.o           12
+    data_init.o            40
+    vector_table_M.o       66
+    zero_init3.o           60
+    -------------------------------------------
+    Total:                492
+
+shb_l.a: [4]
+    exit.o                 20
+    -------------------------------------------
+    Total:                 20
+
+    Gaps                    6
+    Linker created                  38    1'024
+-----------------------------------------------
+    Grand Total:        1'592       80    1'613
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address  Size  Type      Object
+-----                       -------  ----  ----      ------
+.iar.init_table$$Base         0x5e0         --   Gb  - Linker created -
+.iar.init_table$$Limit        0x604         --   Gb  - Linker created -
+?main                         0x605        Code  Gb  cmain.o [3]
+CSTACK$$Base            0x2000'0250         --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0650         --   Gb  - Linker created -
+ConfiguraMarcaTempo           0x2af  0x24  Code  Gb  cpu-port.o [1]
+CriaContexto                  0x261  0x4e  Code  Gb  cpu-port.o [1]
+CriaTarefa                     0x93  0x6a  Code  Gb  multitarefas.o [1]
+ExecutaMarcaDeTempo           0x16b  0x6a  Code  Gb  multitarefas.o [1]
+HardFault_Handler             0x385   0x4  Code  Gb  cpu-port.o [1]
+IniciaMultitarefas            0x111  0x26  Code  Gb  multitarefas.o [1]
+PILHA_TAREFA_1          0x2000'0004  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_2          0x2000'00a4  0xa0  Data  Gb  main.o [1]
+PILHA_TAREFA_OCIOSA     0x2000'0144  0xa0  Data  Gb  main.o [1]
+PendSV_Handler                0x30d  0x48  Code  Gb  cpu-port.o [1]
+Prioridades             0x2000'0234   0x8  Data  Gb  multitarefas.o [1]
+Region$$Table$$Base           0x5e0         --   Gb  - Linker created -
+Region$$Table$$Limit          0x604         --   Gb  - Linker created -
+SP                      0x2000'0244   0x4  Data  Gb  multitarefas.o [1]
+SVC_Handler                   0x2d5  0x38  Code  Gb  cpu-port.o [1]
+SemaforoAguarda               0x1d5  0x34  Code  Gb  multitarefas.o [1]
+SemaforoLibera                0x209  0x32  Code  Gb  multitarefas.o [1]
+SysTick_Handler               0x355  0x12  Code  Gb  cpu-port.o [1]
+TCB                     0x2000'01e4  0x3c  Data  Gb  multitarefas.o [1]
+TrocaContextoDasTarefas
+                              0x137  0x34  Code  Gb  multitarefas.o [1]
+__aeabi_idiv                  0x3b5        Code  Gb  I32DivModFast.o [3]
+__aeabi_idiv0                 0x469        Code  Gb  IntDivZer.o [3]
+__aeabi_idivmod               0x3b5        Code  Gb  I32DivModFast.o [3]
+__aeabi_uidiv                 0x3bb        Code  Gb  I32DivModFast.o [3]
+__aeabi_uidivmod              0x3bb        Code  Gb  I32DivModFast.o [3]
+__cmain                       0x605        Code  Gb  cmain.o [3]
+__exit                        0x63d  0x14  Code  Gb  exit.o [4]
+__iar_copy_init3              0x587  0x30  Code  Gb  copy_init3.o [3]
+__iar_data_init3              0x5b9  0x28  Code  Gb  data_init.o [3]
+__iar_program_start           0x679        Code  Gb  cstartup_M.o [3]
+__iar_zero_init3              0x54b  0x3c  Code  Gb  zero_init3.o [3]
+__low_level_init              0x623   0x4  Code  Gb  low_level_init.o [2]
+__vector_table                  0x0        Data  Gb  vector_table_M.o [3]
+_call_main                    0x611        Code  Gb  cmain.o [3]
+_exit                         0x631        Code  Gb  cexit.o [3]
+_main                         0x61f        Code  Gb  cmain.o [3]
+buffer                  0x2000'0220  0x14  Data  Gb  main.o [1]
+cheio                   0x2000'0248   0x2  Data  Gb  main.o [1]
+consome                       0x541   0xa  Code  Gb  main.o [1]
+consumidor                    0x4d3  0x2c  Code  Gb  main.o [1]
+contador_marcas         0x2000'024a   0x2  Data  Lc  multitarefas.o [1]
+escalonador                    0x41  0x52  Code  Gb  multitarefas.o [1]
+exit                          0x627   0x8  Code  Gb  exit.o [2]
+main                          0x46d  0x3c  Code  Gb  main.o [1]
+numero_tarefas          0x2000'024e   0x1  Data  Lc  multitarefas.o [1]
+ponteiro_de_pilha       0x2000'0240   0x4  Data  Gb  multitarefas.o [1]
+produtor                      0x4a9  0x2a  Code  Gb  main.o [1]
+produz                        0x4ff   0xc  Code  Gb  main.o [1]
+produz::numero          0x2000'023c   0x4  Data  Lc  main.o [1]
+proxima_tarefa          0x2000'024d   0x1  Data  Gb  multitarefas.o [1]
+tarefa_atual            0x2000'024c   0x1  Data  Gb  multitarefas.o [1]
+tarefa_ociosa                  0xfd  0x12  Code  Gb  multitarefas.o [1]
+vazio                   0x2000'0000   0x2  Data  Gb  main.o [1]
+
+
+[1] = C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj
+[2] = dl6M_tln.a
+[3] = rt6M_tl.a
+[4] = shb_l.a
+
+  1'592 bytes of readonly  code memory
+     80 bytes of readonly  data memory
+  1'613 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

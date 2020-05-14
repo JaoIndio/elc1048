@@ -14,7 +14,7 @@
 /* macros de configuracao */
 
 /* numero de tarefas */
-#define NUMERO_DE_TAREFAS	3
+#define NUMERO_DE_TAREFAS	4
 
 /* número de prioridades/tarefas */
 #define PRIORIDADE_MAXIMA   4
@@ -58,7 +58,7 @@ extern  prioridade_t Prioridades[PRIORIDADE_MAXIMA+1];
 typedef struct 
 {
 	uint8_t     contador;            ///< Contador do semaforo
-	uint8_t 	tarefaEsperando;        ///< Tarefa esperando
+	uint8_t     tarefaEsperando;        ///< Tarefa esperando
 } semaforo_t;
 
 

@@ -90,7 +90,7 @@ __irq void SysTick_Handler(void)
 {	
 	 
 	 ExecutaMarcaDeTempo();    
-	 //TrocaContexto();   /* para o uso como sistema preemptivo */
+	 TrocaContexto();   /* No modo preemptivo a troca de contexto ocorre durante um interrupçao */
 }
 
 __irq void HardFault_Handler(void)
