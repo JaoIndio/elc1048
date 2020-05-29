@@ -2,7 +2,11 @@
 
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armsim2.dll" 
 
+<<<<<<< HEAD
 "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Exe\prj0.out" 
+=======
+"C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Exe\prj0.out" 
+>>>>>>> tarefa4
 
 --plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
 

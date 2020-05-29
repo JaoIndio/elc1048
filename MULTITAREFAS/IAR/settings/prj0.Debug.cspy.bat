@@ -25,7 +25,11 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
+<<<<<<< HEAD
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\settings\prj0.Debug.general.xcl" --backend -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\settings\prj0.Debug.driver.xcl" 
+=======
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\settings\prj0.Debug.general.xcl" --backend -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\settings\prj0.Debug.driver.xcl" 
+>>>>>>> tarefa4
 
 @echo off 
 goto end 
@@ -34,7 +38,11 @@ goto end
 
 @echo on 
 
+<<<<<<< HEAD
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\settings\prj0.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\settings\prj0.Debug.driver.xcl" 
+=======
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\common\bin\cspybat" -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\settings\prj0.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\settings\prj0.Debug.driver.xcl" 
+>>>>>>> tarefa4
 
 @echo off 
 :end

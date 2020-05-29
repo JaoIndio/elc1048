@@ -3372,7 +3372,11 @@
     "location": {
       "column": "9",
       "line": "9",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "CPU_PORT_H_",
     "origin": "user_include",
@@ -3386,7 +3390,11 @@
     "location": {
       "column": "9",
       "line": "15",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "TAM_MINIMO_PILHA",
     "origin": "user_include",
@@ -3400,7 +3408,11 @@
     "location": {
       "column": "19",
       "line": "18",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "stackptr_t",
     "origin": "user_include",
@@ -3414,7 +3426,11 @@
     "location": {
       "column": "9",
       "line": "19",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "SP_TYPECAST",
     "origin": "user_include",
@@ -3428,7 +3444,11 @@
     "location": {
       "column": "9",
       "line": "23",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_INT_CTRL_B",
     "origin": "user_include",
@@ -3442,7 +3462,11 @@
     "location": {
       "column": "9",
       "line": "24",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSPRI3",
     "origin": "user_include",
@@ -3456,7 +3480,11 @@
     "location": {
       "column": "9",
       "line": "25",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_CTRL",
     "origin": "user_include",
@@ -3470,7 +3498,11 @@
     "location": {
       "column": "9",
       "line": "26",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_LOAD",
     "origin": "user_include",
@@ -3484,7 +3516,11 @@
     "location": {
       "column": "9",
       "line": "28",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_PENDSVSET",
     "origin": "user_include",
@@ -3498,7 +3534,11 @@
     "location": {
       "column": "9",
       "line": "29",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_PENDSVCLR",
     "origin": "user_include",
@@ -3512,7 +3552,11 @@
     "location": {
       "column": "9",
       "line": "30",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_CLK",
     "origin": "user_include",
@@ -3526,7 +3570,11 @@
     "location": {
       "column": "9",
       "line": "31",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_INT",
     "origin": "user_include",
@@ -3540,7 +3588,11 @@
     "location": {
       "column": "9",
       "line": "32",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_ENABLE",
     "origin": "user_include",
@@ -3554,7 +3606,11 @@
     "location": {
       "column": "9",
       "line": "33",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "PRIO_BITS",
     "origin": "user_include",
@@ -3568,7 +3624,11 @@
     "location": {
       "column": "9",
       "line": "34",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "LOWEST_INTERRUPT_PRIORITY",
     "origin": "user_include",
@@ -3582,7 +3642,11 @@
     "location": {
       "column": "9",
       "line": "35",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "KERNEL_INTERRUPT_PRIORITY",
     "origin": "user_include",
@@ -3596,7 +3660,11 @@
     "location": {
       "column": "9",
       "line": "36",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_PENDSV_PRI",
     "origin": "user_include",
@@ -3610,7 +3678,11 @@
     "location": {
       "column": "9",
       "line": "37",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "NVIC_SYSTICK_PRI",
     "origin": "user_include",
@@ -3624,7 +3696,11 @@
     "location": {
       "column": "9",
       "line": "41",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "REG_ATOMICA_INICIO",
     "origin": "user_include",
@@ -3638,7 +3714,11 @@
     "location": {
       "column": "9",
       "line": "42",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "REG_ATOMICA_FIM",
     "origin": "user_include",
@@ -3652,7 +3732,11 @@
     "location": {
       "column": "9",
       "line": "44",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "TROCA_CONTEXTO",
     "origin": "user_include",
@@ -3666,7 +3750,11 @@
     "location": {
       "column": "9",
       "line": "45",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "TrocaContexto",
     "origin": "user_include",
@@ -3680,7 +3768,11 @@
     "location": {
       "column": "9",
       "line": "46",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "Clear_PendSV",
     "origin": "user_include",
@@ -3694,7 +3786,11 @@
     "location": {
       "column": "9",
       "line": "48",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "GERA_INTERRUPCAO_SW",
     "origin": "user_include",
@@ -3708,7 +3804,11 @@
     "location": {
       "column": "9",
       "line": "54",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "RESTAURA_SP",
     "origin": "user_include",
@@ -3722,7 +3822,11 @@
     "location": {
       "column": "9",
       "line": "57",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "SALVA_SP",
     "origin": "user_include",
@@ -3736,7 +3840,11 @@
     "location": {
       "column": "9",
       "line": "60",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "SALVA_CONTEXTO",
     "origin": "user_include",
@@ -3750,7 +3858,11 @@
     "location": {
       "column": "9",
       "line": "73",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "RESTAURA_CONTEXTO",
     "origin": "user_include",
@@ -3764,7 +3876,11 @@
     "location": {
       "column": "9",
       "line": "90",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "SALVA_ISR",
     "origin": "user_include",
@@ -3778,7 +3894,11 @@
     "location": {
       "column": "9",
       "line": "92",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.h"
+>>>>>>> tarefa4
     },
     "name": "RESTAURA_ISR",
     "origin": "user_include",
@@ -3806,7 +3926,11 @@
     "location": {
       "column": "20",
       "line": "10",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "SP",
     "origin": "project_file",
@@ -3820,7 +3944,11 @@
     "location": {
       "column": "12",
       "line": "12",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "CriaContexto",
     "origin": "project_file",
@@ -3834,7 +3962,11 @@
     "location": {
       "column": "10",
       "line": "14",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "INITIAL_XPSR",
     "origin": "project_file",
@@ -3848,7 +3980,11 @@
     "location": {
       "column": "11",
       "line": "16",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "reg_val",
     "origin": "project_file",
@@ -3862,7 +3998,11 @@
     "location": {
       "column": "6",
       "line": "47",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "project_file",
@@ -3876,7 +4016,11 @@
     "location": {
       "column": "26",
       "line": "50",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "cpu_clock_hz",
     "origin": "project_file",
@@ -3890,7 +4034,11 @@
     "location": {
       "column": "12",
       "line": "51",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "valor_comparador",
     "origin": "project_file",
@@ -3904,7 +4052,11 @@
     "location": {
       "column": "36",
       "line": "59",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "SVC_Handler",
     "origin": "project_file",
@@ -3918,7 +4070,11 @@
     "location": {
       "column": "36",
       "line": "69",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "PendSV_Handler",
     "origin": "project_file",
@@ -3932,7 +4088,11 @@
     "location": {
       "column": "12",
       "line": "89",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "SysTick_Handler",
     "origin": "project_file",
@@ -3946,7 +4106,11 @@
     "location": {
       "column": "12",
       "line": "96",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\cpu-port.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\cpu-port.c"
+>>>>>>> tarefa4
     },
     "name": "HardFault_Handler",
     "origin": "project_file",
@@ -3974,7 +4138,11 @@
     "location": {
       "column": "9",
       "line": "8",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "MULTITAREFAS_H_",
     "origin": "user_include",
@@ -3988,7 +4156,11 @@
     "location": {
       "column": "9",
       "line": "17",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "NUMERO_DE_TAREFAS",
     "origin": "user_include",
@@ -4002,7 +4174,11 @@
     "location": {
       "column": "9",
       "line": "20",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "PRIORIDADE_MAXIMA",
     "origin": "user_include",
@@ -4016,7 +4192,11 @@
     "location": {
       "column": "9",
       "line": "23",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "cfg_CPU_CLOCK_HZ",
     "origin": "user_include",
@@ -4030,7 +4210,11 @@
     "location": {
       "column": "9",
       "line": "26",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "cfg_MARCA_TEMPO_HZ",
     "origin": "user_include",
@@ -4044,7 +4228,11 @@
     "location": {
       "column": "17",
       "line": "28",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "tarefa_t",
     "origin": "user_include",
@@ -4064,7 +4252,11 @@
         "location": {
           "column": "15",
           "line": "29",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "PRONTA",
         "origin": "user_include",
@@ -4078,7 +4270,11 @@
         "location": {
           "column": "23",
           "line": "29",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "ESPERA",
         "origin": "user_include",
@@ -4088,7 +4284,11 @@
     "location": {
       "column": "9",
       "line": "29",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "",
     "origin": "user_include",
@@ -4102,7 +4302,11 @@
     "location": {
       "column": "31",
       "line": "29",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "estado_tarefa_t",
     "origin": "user_include",
@@ -4116,7 +4320,11 @@
     "location": {
       "column": "19",
       "line": "30",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "prioridade_t",
     "origin": "user_include",
@@ -4130,7 +4338,11 @@
     "location": {
       "column": "19",
       "line": "31",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "tick_t",
     "origin": "user_include",
@@ -4144,7 +4356,11 @@
     "location": {
       "column": "9",
       "line": "38",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "members": [
       {
@@ -4155,7 +4371,11 @@
         "location": {
           "column": "15",
           "line": "40",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "nome",
         "origin": "user_include",
@@ -4169,7 +4389,11 @@
         "location": {
           "column": "14",
           "line": "41",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "stack_pointer",
         "origin": "user_include",
@@ -4183,7 +4407,11 @@
         "location": {
           "column": "18",
           "line": "42",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "estado",
         "origin": "user_include",
@@ -4197,7 +4425,11 @@
         "location": {
           "column": "16",
           "line": "43",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "prioridade",
         "origin": "user_include",
@@ -4211,7 +4443,11 @@
         "location": {
           "column": "12",
           "line": "44",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "tempo_espera",
         "origin": "user_include",
@@ -4225,7 +4461,11 @@
         "location": {
           "column": "2",
           "line": "45",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "tcb_t",
         "origin": "user_include",
@@ -4244,7 +4484,11 @@
     "location": {
       "column": "18",
       "line": "47",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "tarefa_atual",
     "origin": "user_include",
@@ -4258,7 +4502,11 @@
     "location": {
       "column": "18",
       "line": "48",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "proxima_tarefa",
     "origin": "user_include",
@@ -4272,7 +4520,11 @@
     "location": {
       "column": "16",
       "line": "49",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TCB",
     "origin": "user_include",
@@ -4286,7 +4538,11 @@
     "location": {
       "column": "20",
       "line": "50",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "ponteiro_de_pilha",
     "origin": "user_include",
@@ -4300,7 +4556,11 @@
     "location": {
       "column": "22",
       "line": "51",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "Prioridades",
     "origin": "user_include",
@@ -4314,7 +4574,11 @@
     "location": {
       "column": "9",
       "line": "58",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "members": [
       {
@@ -4325,7 +4589,11 @@
         "location": {
           "column": "14",
           "line": "60",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "contador",
         "origin": "user_include",
@@ -4339,7 +4607,11 @@
         "location": {
           "column": "14",
           "line": "61",
+<<<<<<< HEAD
           "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+          "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
         },
         "name": "tarefaEsperando",
         "origin": "user_include",
@@ -4358,7 +4630,11 @@
     "location": {
       "column": "3",
       "line": "62",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "semaforo_t",
     "origin": "user_include",
@@ -4372,7 +4648,11 @@
     "location": {
       "column": "6",
       "line": "65",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "tarefa_ociosa",
     "origin": "user_include",
@@ -4386,7 +4666,11 @@
     "location": {
       "column": "6",
       "line": "65",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "tarefa_ociosa",
     "origin": "user_include",
@@ -4400,7 +4684,11 @@
     "location": {
       "column": "9",
       "line": "66",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "escalonador",
     "origin": "user_include",
@@ -4414,7 +4702,11 @@
     "location": {
       "column": "9",
       "line": "66",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "escalonador",
     "origin": "user_include",
@@ -4428,7 +4720,11 @@
     "location": {
       "column": "6",
       "line": "68",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "user_include",
@@ -4442,7 +4738,11 @@
     "location": {
       "column": "6",
       "line": "68",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "user_include",
@@ -4456,7 +4756,11 @@
     "location": {
       "column": "12",
       "line": "69",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "CriaContexto",
     "origin": "user_include",
@@ -4470,7 +4774,11 @@
     "location": {
       "column": "12",
       "line": "69",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "CriaContexto",
     "origin": "user_include",
@@ -4484,7 +4792,11 @@
     "location": {
       "column": "6",
       "line": "70",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "CriaTarefa",
     "origin": "user_include",
@@ -4498,7 +4810,11 @@
     "location": {
       "column": "6",
       "line": "70",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "CriaTarefa",
     "origin": "user_include",
@@ -4512,7 +4828,11 @@
     "location": {
       "column": "6",
       "line": "71",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "IniciaMultitarefas",
     "origin": "user_include",
@@ -4526,7 +4846,11 @@
     "location": {
       "column": "6",
       "line": "71",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "IniciaMultitarefas",
     "origin": "user_include",
@@ -4540,7 +4864,11 @@
     "location": {
       "column": "6",
       "line": "72",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "user_include",
@@ -4554,7 +4882,11 @@
     "location": {
       "column": "6",
       "line": "72",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "ConfiguraMarcaTempo",
     "origin": "user_include",
@@ -4568,7 +4900,11 @@
     "location": {
       "column": "6",
       "line": "73",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "user_include",
@@ -4582,7 +4918,11 @@
     "location": {
       "column": "6",
       "line": "73",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "user_include",
@@ -4596,7 +4936,11 @@
     "location": {
       "column": "6",
       "line": "75",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaSuspende",
     "origin": "user_include",
@@ -4610,7 +4954,11 @@
     "location": {
       "column": "6",
       "line": "75",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaSuspende",
     "origin": "user_include",
@@ -4624,7 +4972,11 @@
     "location": {
       "column": "6",
       "line": "76",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaContinua",
     "origin": "user_include",
@@ -4638,7 +4990,11 @@
     "location": {
       "column": "6",
       "line": "76",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaContinua",
     "origin": "user_include",
@@ -4652,7 +5008,11 @@
     "location": {
       "column": "6",
       "line": "77",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaEspera",
     "origin": "user_include",
@@ -4666,7 +5026,11 @@
     "location": {
       "column": "6",
       "line": "77",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "TarefaEspera",
     "origin": "user_include",
@@ -4680,7 +5044,11 @@
     "location": {
       "column": "6",
       "line": "79",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "SemaforoAguarda",
     "origin": "user_include",
@@ -4694,7 +5062,11 @@
     "location": {
       "column": "6",
       "line": "79",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "SemaforoAguarda",
     "origin": "user_include",
@@ -4708,7 +5080,11 @@
     "location": {
       "column": "6",
       "line": "80",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "SemaforoLibera",
     "origin": "user_include",
@@ -4722,7 +5098,11 @@
     "location": {
       "column": "6",
       "line": "80",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.h"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.h"
+>>>>>>> tarefa4
     },
     "name": "SemaforoLibera",
     "origin": "user_include",
@@ -5177,6 +5557,7 @@
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:ysizet.h@111@macro@_YSIZET_H",
     "What": "MacroDef",
     "defdec": "Def",
@@ -5271,10 +5652,79 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "produtor",
+=======
+    "ID": "c:@F@thread0",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread0(void)",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread0",
     "origin": "project_file",
     "scope": null
   },
   {
+    "ID": "c:@F@thread1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread1(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread2(void)",
+    "location": {
+      "column": "6",
+      "line": "11",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread3(void)",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@thread4",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread4(void)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread4",
+>>>>>>> tarefa4
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+<<<<<<< HEAD
     "ID": "c:@F@consumidor",
     "What": "Function",
     "defdec": "Dec",
@@ -5285,10 +5735,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "consumidor",
+=======
+    "ID": "c:@F@thread5",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void thread5(void)",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread5",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@produz",
     "What": "Function",
     "defdec": "Dec",
@@ -5299,10 +5762,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "produz",
+=======
+    "ID": "c:@count_flag",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "count_flag",
+    "location": {
+      "column": "12",
+      "line": "17",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "count_flag",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@consome",
     "What": "Function",
     "defdec": "Dec",
@@ -5313,74 +5789,173 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "consome",
+=======
+    "ID": "c:@count",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "count",
+    "location": {
+      "column": "5",
+      "line": "18",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "count",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@256@macro@TAM_PILHA_1",
+=======
+    "ID": "c:main.c@513@macro@TAM_PILHA_1",
+>>>>>>> tarefa4
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TAM_PILHA_1",
     "location": {
       "column": "9",
+<<<<<<< HEAD
       "line": "17",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "23",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "TAM_PILHA_1",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@302@macro@TAM_PILHA_2",
+=======
+    "ID": "c:main.c@559@macro@TAM_PILHA_2",
+>>>>>>> tarefa4
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TAM_PILHA_2",
     "location": {
       "column": "9",
+<<<<<<< HEAD
       "line": "18",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "24",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "TAM_PILHA_2",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@348@macro@TAM_PILHA_3",
+=======
+    "ID": "c:main.c@605@macro@TAM_PILHA_3",
+>>>>>>> tarefa4
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TAM_PILHA_3",
     "location": {
       "column": "9",
+<<<<<<< HEAD
       "line": "19",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "25",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "TAM_PILHA_3",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@394@macro@TAM_PILHA_OCIOSA",
+=======
+    "ID": "c:main.c@653@macro@TAM_PILHA_4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_4",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@699@macro@TAM_PILHA_5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_5",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@745@macro@TAM_PILHA_6",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_6",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@793@macro@TAM_PILHA_OCIOSA",
+>>>>>>> tarefa4
     "What": "MacroDef",
     "defdec": "Def",
     "display": "TAM_PILHA_OCIOSA",
     "location": {
       "column": "9",
+<<<<<<< HEAD
       "line": "20",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "31",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "TAM_PILHA_OCIOSA",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@446@macro@N_ELEMENTOS",
+=======
+    "ID": "c:main.c@845@macro@N_ELEMENTOS",
+>>>>>>> tarefa4
     "What": "MacroDef",
     "defdec": "Def",
     "display": "N_ELEMENTOS",
     "location": {
       "column": "9",
+<<<<<<< HEAD
       "line": "22",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "33",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "N_ELEMENTOS",
     "origin": "project_file",
@@ -5393,8 +5968,13 @@
     "display": "PILHA_TAREFA_1",
     "location": {
       "column": "10",
+<<<<<<< HEAD
       "line": "27",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "38",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "PILHA_TAREFA_1",
     "origin": "project_file",
@@ -5407,8 +5987,13 @@
     "display": "PILHA_TAREFA_2",
     "location": {
       "column": "10",
+<<<<<<< HEAD
       "line": "28",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "39",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "PILHA_TAREFA_2",
     "origin": "project_file",
@@ -5421,22 +6006,77 @@
     "display": "PILHA_TAREFA_3",
     "location": {
       "column": "10",
+<<<<<<< HEAD
       "line": "29",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "40",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "PILHA_TAREFA_3",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
+=======
+    "ID": "c:@PILHA_TAREFA_4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_4",
+    "location": {
+      "column": "10",
+      "line": "42",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_5",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_5",
+    "location": {
+      "column": "10",
+      "line": "43",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_6",
+    "location": {
+      "column": "10",
+      "line": "44",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+>>>>>>> tarefa4
     "ID": "c:@PILHA_TAREFA_OCIOSA",
     "What": "Variable",
     "defdec": "Dec",
     "display": "PILHA_TAREFA_OCIOSA",
     "location": {
       "column": "10",
+<<<<<<< HEAD
       "line": "30",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "46",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "PILHA_TAREFA_OCIOSA",
     "origin": "project_file",
@@ -5449,8 +6089,13 @@
     "display": "cheio",
     "location": {
       "column": "12",
+<<<<<<< HEAD
       "line": "35",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "51",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "cheio",
     "origin": "project_file",
@@ -5463,8 +6108,13 @@
     "display": "vazio",
     "location": {
       "column": "12",
+<<<<<<< HEAD
       "line": "36",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "52",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "vazio",
     "origin": "project_file",
@@ -5477,8 +6127,13 @@
     "display": "buffer",
     "location": {
       "column": "5",
+<<<<<<< HEAD
       "line": "39",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "55",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "buffer",
     "origin": "project_file",
@@ -5491,14 +6146,20 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
+<<<<<<< HEAD
       "line": "44",
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
+=======
+      "line": "60",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+>>>>>>> tarefa4
     },
     "name": "main",
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@produtor",
     "What": "Function",
     "defdec": "Def",
@@ -5509,10 +6170,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "produtor",
+=======
+    "ID": "c:@F@thread5",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread5(void)",
+    "location": {
+      "column": "6",
+      "line": "99",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread5",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@1543@F@produtor@f",
     "What": "Variable",
     "defdec": "Def",
@@ -5523,10 +6197,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "f",
+=======
+    "ID": "c:main.c@2483@F@thread5@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "7",
+      "line": "100",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "a",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@consumidor",
     "What": "Function",
     "defdec": "Def",
@@ -5537,10 +6224,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "consumidor",
+=======
+    "ID": "c:@F@thread4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread4(void)",
+    "location": {
+      "column": "6",
+      "line": "112",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread4",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@2543@F@consumidor@i",
     "What": "Variable",
     "defdec": "Def",
@@ -5551,10 +6251,37 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "i",
+=======
+    "ID": "c:main.c@2721@F@thread4@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "113",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
     "origin": "project_file",
     "scope": null
   },
   {
+    "ID": "c:@F@thread3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread3(void)",
+    "location": {
+      "column": "6",
+      "line": "124",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread3",
+>>>>>>> tarefa4
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+<<<<<<< HEAD
     "ID": "c:main.c@2557@F@consumidor@leitura",
     "What": "Variable",
     "defdec": "Def",
@@ -5565,10 +6292,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "leitura",
+=======
+    "ID": "c:main.c@2953@F@thread3@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "125",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@produz",
     "What": "Function",
     "defdec": "Def",
@@ -5579,10 +6319,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "produz",
+=======
+    "ID": "c:@F@thread2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread2(void)",
+    "location": {
+      "column": "6",
+      "line": "137",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread2",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@3522@F@produz@numero",
     "What": "Variable",
     "defdec": "Def",
@@ -5593,10 +6346,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "numero",
+=======
+    "ID": "c:main.c@3209@F@thread2@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "138",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:@F@consome",
     "What": "Function",
     "defdec": "Def",
@@ -5607,10 +6373,23 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "consome",
+=======
+    "ID": "c:@F@thread1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread1(void)",
+    "location": {
+      "column": "6",
+      "line": "150",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread1",
+>>>>>>> tarefa4
     "origin": "project_file",
     "scope": null
   },
   {
+<<<<<<< HEAD
     "ID": "c:main.c@3611@F@consome@aux",
     "What": "Variable",
     "defdec": "Def",
@@ -5621,10 +6400,137 @@
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\main.c"
     },
     "name": "aux",
+=======
+    "ID": "c:main.c@3465@F@thread1@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "151",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
     "origin": "project_file",
     "scope": null
   },
   {
+    "ID": "c:@F@thread0",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void thread0(void)",
+    "location": {
+      "column": "6",
+      "line": "163",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "thread0",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3721@F@thread0@debbug",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "debbug",
+    "location": {
+      "column": "19",
+      "line": "164",
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "debbug",
+>>>>>>> tarefa4
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+<<<<<<< HEAD
+=======
+    "ID": "c:ysizet.h@111@macro@_YSIZET_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_YSIZET_H",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_YSIZET_H",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@277@macro@_SIZE_T",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_SIZE_T",
+    "location": {
+      "column": "11",
+      "line": "16",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_SIZE_T",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@296@macro@_STD_USING_SIZE_T",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_STD_USING_SIZE_T",
+    "location": {
+      "column": "11",
+      "line": "17",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "_STD_USING_SIZE_T",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@T@size_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "_Sizet",
+    "location": {
+      "column": "18",
+      "line": "18",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "size_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@359@macro@__DATA_PTR_MEM_HELPER1__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__DATA_PTR_MEM_HELPER1__",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "__DATA_PTR_MEM_HELPER1__",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:ysizet.h@T@__data_size_t",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "unsigned int",
+    "location": {
+      "column": "1",
+      "line": "23",
+      "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\inc\\c\\ysizet.h"
+    },
+    "name": "__data_size_t",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+>>>>>>> tarefa4
     "ID": "c:@tarefa_atual",
     "What": "Variable",
     "defdec": "Dec",
@@ -5632,7 +6538,11 @@
     "location": {
       "column": "13",
       "line": "9",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "tarefa_atual",
     "origin": "project_file",
@@ -5646,7 +6556,11 @@
     "location": {
       "column": "27",
       "line": "9",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "proxima_tarefa",
     "origin": "project_file",
@@ -5660,7 +6574,11 @@
     "location": {
       "column": "13",
       "line": "10",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "TCB",
     "origin": "project_file",
@@ -5674,7 +6592,11 @@
     "location": {
       "column": "15",
       "line": "11",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "ponteiro_de_pilha",
     "origin": "project_file",
@@ -5688,7 +6610,11 @@
     "location": {
       "column": "20",
       "line": "12",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "Prioridades",
     "origin": "project_file",
@@ -5702,7 +6628,11 @@
     "location": {
       "column": "13",
       "line": "13",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "SP",
     "origin": "project_file",
@@ -5716,7 +6646,11 @@
     "location": {
       "column": "15",
       "line": "16",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "contador_marcas",
     "origin": "project_file",
@@ -5730,7 +6664,11 @@
     "location": {
       "column": "16",
       "line": "18",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "numero_tarefas",
     "origin": "project_file",
@@ -5744,7 +6682,11 @@
     "location": {
       "column": "9",
       "line": "25",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "escalonador",
     "origin": "project_file",
@@ -5758,7 +6700,11 @@
     "location": {
       "column": "10",
       "line": "28",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "prioridade",
     "origin": "project_file",
@@ -5772,7 +6718,11 @@
     "location": {
       "column": "10",
       "line": "29",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "tarefa_selecionada",
     "origin": "project_file",
@@ -5786,7 +6736,11 @@
     "location": {
       "column": "6",
       "line": "59",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "CriaTarefa",
     "origin": "project_file",
@@ -5800,7 +6754,11 @@
     "location": {
       "column": "6",
       "line": "88",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "TarefaSuspende",
     "origin": "project_file",
@@ -5814,7 +6772,11 @@
     "location": {
       "column": "6",
       "line": "96",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "TarefaContinua",
     "origin": "project_file",
@@ -5828,7 +6790,11 @@
     "location": {
       "column": "6",
       "line": "104",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "TarefaEspera",
     "origin": "project_file",
@@ -5842,7 +6808,11 @@
     "location": {
       "column": "6",
       "line": "117",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "tarefa_ociosa",
     "origin": "project_file",
@@ -5856,7 +6826,11 @@
     "location": {
       "column": "6",
       "line": "131",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "IniciaMultitarefas",
     "origin": "project_file",
@@ -5870,7 +6844,11 @@
     "location": {
       "column": "6",
       "line": "139",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "TrocaContextoDasTarefas",
     "origin": "project_file",
@@ -5884,7 +6862,11 @@
     "location": {
       "column": "6",
       "line": "157",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "ExecutaMarcaDeTempo",
     "origin": "project_file",
@@ -5898,7 +6880,11 @@
     "location": {
       "column": "10",
       "line": "160",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "tarefa",
     "origin": "project_file",
@@ -5912,7 +6898,11 @@
     "location": {
       "column": "6",
       "line": "183",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "SemaforoAguarda",
     "origin": "project_file",
@@ -5926,7 +6916,11 @@
     "location": {
       "column": "6",
       "line": "202",
+<<<<<<< HEAD
       "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048-master\\MULTITAREFAS\\IAR\\multitarefas.c"
+=======
+      "path": "C:\\Users\\amral\\curso\\sem6\\embarcados\\git\\elc1048\\MULTITAREFAS\\IAR\\multitarefas.c"
+>>>>>>> tarefa4
     },
     "name": "SemaforoLibera",
     "origin": "project_file",

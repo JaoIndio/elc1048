@@ -5,6 +5,7 @@
     <configuration>
         <name>Debug</name>
         <outputs>
+<<<<<<< HEAD
             <file>$PROJ_DIR$\Debug\Obj\cpu-port.xcl</file>
             <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
             <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
@@ -43,17 +44,56 @@
             </outputs>
         </file>
         <file>
+=======
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\prj0.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\cpu-port.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\multitarefas.xcl</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$TOOLKIT_DIR$\config\generic_cortex.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\multitarefas.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\List\prj0.map</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\prj0.out</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\cpu-port.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\multitarefas.c</file>
+            <file>$PROJ_DIR$\cpu-port.c</file>
+            <file>$PROJ_DIR$\cpu-port.h</file>
+            <file>$PROJ_DIR$\multitarefas.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+        </outputs>
+        <file>
+>>>>>>> tarefa4
             <name>$PROJ_DIR$\Debug\Exe\prj0.out</name>
             <outputs>
                 <tool>
                     <name>ILINK</name>
+<<<<<<< HEAD
                     <file> 7</file>
+=======
+                    <file> 10</file>
+>>>>>>> tarefa4
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ILINK</name>
+<<<<<<< HEAD
                     <file> 23 12 21 24 3 8 14 16</file>
+=======
+                    <file> 6 3 7 8 25 15 11 5</file>
+>>>>>>> tarefa4
                 </tool>
             </inputs>
         </file>
@@ -62,21 +102,34 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
+<<<<<<< HEAD
                     <file> 24</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
                     <file> 20</file>
+=======
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4</file>
+>>>>>>> tarefa4
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
+<<<<<<< HEAD
                     <file> 10 15 4 13 11 5 22 19</file>
+=======
+                    <file> 21 12 23 0 9 26 14 20</file>
+>>>>>>> tarefa4
                 </tool>
             </inputs>
         </file>
         <file>
+<<<<<<< HEAD
             <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
@@ -86,16 +139,32 @@
                 <tool>
                     <name>BICOMP</name>
                     <file> 17</file>
+=======
+            <name>$PROJ_DIR$\cpu-port.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16</file>
+>>>>>>> tarefa4
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
+<<<<<<< HEAD
                     <file> 15 4 13 11 5 22 2 1 10 19</file>
+=======
+                    <file> 20 12 23 0 9 26 14 21</file>
+>>>>>>> tarefa4
                 </tool>
             </inputs>
         </file>
         <file>
+<<<<<<< HEAD
             <name>$PROJ_DIR$\cpu-port.c</name>
             <outputs>
                 <tool>
@@ -105,15 +174,38 @@
                 <tool>
                     <name>BICOMP</name>
                     <file> 0</file>
+=======
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1</file>
+>>>>>>> tarefa4
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
+<<<<<<< HEAD
                     <file> 19 15 4 13 11 5 22 10</file>
                 </tool>
             </inputs>
         </file>
+=======
+                    <file> 12 23 0 9 26 14 17 22 21 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 13 10</file>
+                </tool>
+            </outputs>
+        </file>
+>>>>>>> tarefa4
     </configuration>
     <configuration>
         <name>Release</name>

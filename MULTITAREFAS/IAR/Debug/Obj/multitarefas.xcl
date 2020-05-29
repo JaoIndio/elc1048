@@ -1,14 +1,26 @@
+<<<<<<< HEAD
 "C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\multitarefas.c"
+=======
+"C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\multitarefas.c"
+>>>>>>> tarefa4
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
+<<<<<<< HEAD
 C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR\Debug\Obj\multitarefas.pbi.dep
 -o
 multitarefas.pbi
 -I
 C:\Users\amral\curso\sem6\embarcados\git\elc1048-master\MULTITAREFAS\IAR
+=======
+C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR\Debug\Obj\multitarefas.pbi.dep
+-o
+multitarefas.pbi
+-I
+C:\Users\amral\curso\sem6\embarcados\git\elc1048\MULTITAREFAS\IAR
+>>>>>>> tarefa4
 -I
 C:\DADOS_LOCAIS\GITHUB\elc1048\MULTITAREFAS\IAR
 -I

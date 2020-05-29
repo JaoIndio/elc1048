@@ -6,37 +6,57 @@
 /*
  * Prototipos das tarefas
  */
-void produtor(void);
-void consumidor(void);
-int produz();
-int consome(int *buffer);
+<<<<<<< Updated upstream
+void tarefa_1(void);
+void tarefa_2(void);
+=======
+void thread0(void);
+void thread1(void);
+void thread2(void);
+void thread3(void);
+void thread4(void);
+void thread5(void);
+
+// Será usado semaforos para utilizar count
+semaforo_t count_flag = 1; // variavel q sinaliza disponibilidade da variavel count
+int count;                 // O uso dessa variavel eh considerada uma região crítica.
+>>>>>>> Stashed changes
 
 /*
  * Configuracao dos tamanhos das pilhas
  */
 #define TAM_PILHA_1		(TAM_MINIMO_PILHA + 24)
 #define TAM_PILHA_2		(TAM_MINIMO_PILHA + 24)
-#define TAM_PILHA_3		(TAM_MINIMO_PILHA + 24)
+<<<<<<< Updated upstream
 #define TAM_PILHA_OCIOSA	(TAM_MINIMO_PILHA + 24)
 
-#define N_ELEMENTOS 5
+=======
+#define TAM_PILHA_3		(TAM_MINIMO_PILHA + 24)
 
+#define TAM_PILHA_4		(TAM_MINIMO_PILHA + 24)
+#define TAM_PILHA_5		(TAM_MINIMO_PILHA + 24)
+#define TAM_PILHA_6		(TAM_MINIMO_PILHA + 24)
+
+#define TAM_PILHA_OCIOSA	(TAM_MINIMO_PILHA + 24)
+
+#define N_ELEMENTOS 7
+
+>>>>>>> Stashed changes
 /*
  * Declaracao das pilhas das tarefas
  */
 uint32_t PILHA_TAREFA_1[TAM_PILHA_1];
 uint32_t PILHA_TAREFA_2[TAM_PILHA_2];
+<<<<<<< Updated upstream
+=======
 uint32_t PILHA_TAREFA_3[TAM_PILHA_3];
+
+uint32_t PILHA_TAREFA_4[TAM_PILHA_4];
+uint32_t PILHA_TAREFA_5[TAM_PILHA_5];
+uint32_t PILHA_TAREFA_6[TAM_PILHA_6];
+
+>>>>>>> Stashed changes
 uint32_t PILHA_TAREFA_OCIOSA[TAM_PILHA_OCIOSA];
-
-
-
-/* Declara Semaforos*/
-semaforo_t cheio = 0;
-semaforo_t vazio = N_ELEMENTOS;
-
-
-int buffer[N_ELEMENTOS];
 
 /*
  * Funcao principal de entrada do sistema
@@ -47,16 +67,36 @@ int main(void)
 	/* Criacao das tarefas */
 	/* Parametros: ponteiro, nome, ponteiro da pilha, tamanho da pilha, prioridade da tarefa */
 	
-	CriaTarefa(produtor, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 2);
+<<<<<<< Updated upstream
+	CriaTarefa(tarefa_1, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 1);
 	
-	CriaTarefa(consumidor, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 1);
+	CriaTarefa(tarefa_2, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 2);
+=======
+	CriaTarefa(thread0, "Tarefa 1", PILHA_TAREFA_1, TAM_PILHA_1, 6);
+	
+	CriaTarefa(thread1, "Tarefa 2", PILHA_TAREFA_2, TAM_PILHA_2, 5);
+        
+        CriaTarefa(thread2, "Tarefa 3", PILHA_TAREFA_3, TAM_PILHA_3, 4);
+       
+        CriaTarefa(thread3, "Tarefa 4", PILHA_TAREFA_4, TAM_PILHA_4, 3);
+	
+	CriaTarefa(thread4, "Tarefa 5", PILHA_TAREFA_5, TAM_PILHA_5, 2);
+        
+        CriaTarefa(thread5, "Tarefa 6", PILHA_TAREFA_6, TAM_PILHA_6, 7);
+>>>>>>> Stashed changes
 	
 	/* Cria tarefa ociosa do sistema */
-	CriaTarefa(tarefa_ociosa,"Tarefa ociosa", PILHA_TAREFA_OCIOSA, TAM_PILHA_OCIOSA, 0);
+	CriaTarefa(tarefa_ociosa,"Tarefa ociosa", PILHA_TAREFA_OCIOSA, TAM_PILHA_OCIOSA, 1);
 	
 	/* Configura marca de tempo */
 	ConfiguraMarcaTempo();   
 	
+        /*Inicializa estado das tarefas*/
+        TCB[1].estado = ESPERA;
+        TCB[2].estado = ESPERA;
+        TCB[3].estado = ESPERA;
+        TCB[4].estado = ESPERA;
+        
 	/* Inicia sistema multitarefas */
 	IniciaMultitarefas();
 	
@@ -66,62 +106,103 @@ int main(void)
 	}
 }
 
+<<<<<<< Updated upstream
+
 /* Tarefas de exemplo que usam funcoes para suspender/continuar as tarefas */
+void tarefa_1(void)
+{
+	volatile uint16_t a = 0;
+	for(;;)
+	{
+		a++;
+		TarefaContinua(2);
+	
+	}
+}
 
-void produtor(){
-  int f = 4;
+void tarefa_2(void)
+{
+	volatile uint16_t b = 0;
+	for(;;)
+	{
+		b++;
+		TarefaSuspende(2);	
+	}
+}
+=======
+void thread5(){
+  int a;
   while(1){
-    SemaforoAguarda(&vazio);
-    /* O q acontece qndo se faz wait(vazio) ??
-       se cont < 0, cont do sem_vazio será decrementado. Indicando que há menos espaço no buffer 
-       Senão, a tarefa produtora será referenciada no sem_cheio e haverá uma troca de contexto. Indicando que o buffer está cheio
-       Se o else não for satisfeito a tarefa produtora contitua suas instruções
-    */
-    f = (f + 1)%N_ELEMENTOS;
-    buffer[f] = produz();
-    SemaforoLibera(&cheio);
-    //TarefaSuspende(1);
-    /* O q acontece qndo se faz signal(cheio) ??
-       1° verifica-se se existe uma tarefa esperando em sem_cheio
-             Se sim, muda-se o estada da tarefa para pronta. Indicando que a tarefa consumidora foi susspensa pq tentou usar o buffer sem ele estar livre
-             Senão, contador de sem_cheio é incrementado indicando q o buffer não está sendo usado pelo produtor
-       2° Ocorre uma troca de contexto
-    */
+    SemaforoAguarda(&count_flag);
+    a = count;
+    SemaforoLibera(&count_flag);
+    TarefaEspera(3);
+  }
+  //TarefaEspera(30000);
+  //TarefaSuspende(6);
+}
+
+// Tarefa de menor prioridade
+void thread4(){
+  //estado_tarefa_t debbug;
+  while(1){
+    //debbug = TCB[6].estado;
+    SemaforoAguarda(&count_flag);
+    count++;
+    SemaforoLibera(&count_flag);
+    //debbug = TCB[6].estado;
+    TarefaContinua(4);
   }
 }
 
-void consumidor(){
-  int i = 4;
-  int leitura;
+void thread3(){
+  //estado_tarefa_t debbug;
   while(1){
-    SemaforoAguarda(&cheio);
-    /* O q acontece qndo se faz wait(cheio) ??
-       se cont < 0, cont do sem_cheio será decrementado. Indicando que o buffer esta sendo usado pelo consumidor
-       Senão, a tarefa consumidora será referenciada no sem_cheio e haverá uma troca de contexto. Indicando que o buffer esta sendo usado pelo produdor
-       Se o else não for satisfeito a tarefa consumidora contitua suas instruções
-    */
-    i = (i + 1)%N_ELEMENTOS;
-    leitura = consome(buffer+i);
-    SemaforoLibera(&vazio);
-    //TarefaSuspende(2);
-    /* O q acontece qndo se faz signal(vazio) ??
-       1° verifica-se se existe uma tarefa esperando em sem_vazio
-             Se sim, muda-se o estada da tarefa para pronta. E produz-se mais um elemento
-             Senão, contador de sem_vazio é incrementado indicando q há mais um elemento no buffer
-       2° Ocorre uma troca de contexto
-    */
+    //debbug = TCB[6].estado;
+    SemaforoAguarda(&count_flag);
+    count++;
+    SemaforoLibera(&count_flag);
+    //debbug = TCB[6].estado;
+    TarefaContinua(3);
+    TarefaSuspende(4);
   }
 }
 
-int produz(){
-  static int numero = 0;
-  numero++;
-  return numero;
+void thread2(){
+  //estado_tarefa_t debbug;
+  while(1){
+    //debbug = TCB[6].estado;
+    SemaforoAguarda(&count_flag);
+    count++;
+    SemaforoLibera(&count_flag);
+    //debbug = TCB[6].estado;
+    TarefaContinua(2);
+    TarefaSuspende(3);
+  }
 }
 
-int consome(int *buffer){
-  int aux;
-  aux = *buffer;
-  *buffer = NULL;
-  return aux;
+void thread1(){
+  //estado_tarefa_t debbug;
+  while(1){
+    //debbug = TCB[6].estado;
+    SemaforoAguarda(&count_flag);
+    count++;
+    SemaforoLibera(&count_flag);
+    //debbug = TCB[6].estado;
+    TarefaContinua(1);
+    TarefaSuspende(2);
+  }
 }
+
+void thread0(){
+  //estado_tarefa_t debbug;
+  while(1){
+    //debbug = TCB[6].estado;
+    SemaforoAguarda(&count_flag);
+    count++;
+    SemaforoLibera(&count_flag);
+    //debbug = TCB[6].estado;
+    TarefaSuspende(1);
+  }
+}
+>>>>>>> Stashed changes
